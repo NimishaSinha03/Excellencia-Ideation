@@ -654,6 +654,8 @@ section {
   height: auto;
 }
 .services .icon-box {
+  width: 500px;
+    height: 450px;
   text-align: center;
   border: 1px solid #ebebeb;
   padding: 80px 20px;
