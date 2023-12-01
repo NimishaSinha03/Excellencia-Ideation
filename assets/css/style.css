@@ -657,7 +657,7 @@ section {
   background:linear-gradient( #ffc451,black);
   color:white;
   fornt-size:25px;
-  border-radius:7px;
+  border-radius:20px;
 }
 
 .services .icon-box .icon {
@@ -686,12 +686,12 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #151515;
+  color: grey;
   transition: ease-in-out 0.3s;
 }
 
 .services .icon-box h4 a:hover {
-  color: #ffc451;
+  color:#151515 ;
 }
 
 .services .icon-box p {
