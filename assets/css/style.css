@@ -648,6 +648,11 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+
+.zonal{
+  width:100%;
+  height: auto;
+}
 .services .icon-box {
   text-align: center;
   border: 1px solid #ebebeb;
@@ -659,7 +664,6 @@ section {
   fornt-size:25px;
   border-radius:20px;
 }
-
 .services .icon-box .icon {
   margin: 0 auto;
   width: 64px;
