@@ -690,12 +690,12 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: grey;
+  color: #151515;
   transition: ease-in-out 0.3s;
 }
 
 .services .icon-box h4 a:hover {
-  color:#151515 ;
+  color:grey ;
 }
 
 .services .icon-box p {
