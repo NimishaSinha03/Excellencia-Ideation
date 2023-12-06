@@ -843,7 +843,7 @@ section {
 
 .pricing .row {
   padding-top: 40px;
-  justify-content: space around;
+  justify-content: space-around;
 }
 
 .pricing .box {
