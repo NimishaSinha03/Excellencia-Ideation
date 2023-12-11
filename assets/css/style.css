@@ -404,10 +404,10 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-/*   width: 100%; */
+  width: 100%; 
   min-height: 100vh;
   background: url("../img/cover.jpg") top center;
-  background-size: cover;
+ /* background-size: cover;  */
   position: relative;
 }
 
