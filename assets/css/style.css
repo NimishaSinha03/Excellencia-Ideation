@@ -408,7 +408,7 @@ h6 {
 #coverimage {
   width: 100%; 
   min-height: 100vh;
-  background: url("../img/cover laptop.jpg")top center;
+/*   background: url("../img/cover laptop.jpg")top center; */
  /* background-size: cover;  */
   position: relative;
   background-repeat: no-repeat;
