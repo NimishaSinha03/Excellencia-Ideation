@@ -406,12 +406,17 @@ h6 {
 #hero {
   width: 100%; 
   min-height: 100vh;
-  background: url("../img/cover laptop.jpg") top center;
+  background: url("../img/cover laptop.jpg");
  /* background-size: cover;  */
   position: relative;
   background-repeat: no-repeat;
 }
 
+@media (max-width: 767px) {
+  #hero {
+    background-image: url('../img/cover mobile.jpg');
+  }
+}
 #hero:before {
   content: "";
   background: rgba(0, 0, 0, 0.6);
