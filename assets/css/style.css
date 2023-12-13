@@ -416,7 +416,7 @@ h6 {
 
 @media (max-width: 767px) {
   #hero {
-    background-image: url('../img/cover mobile.jpg')top center;
+    background: url('../img/cover mobile.jpg')top center;
   }
 }
 #hero:before {
