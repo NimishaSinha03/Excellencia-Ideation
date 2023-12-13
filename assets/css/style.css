@@ -405,7 +405,7 @@ h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-#hero {
+#coverimage {
   width: 100%; 
   min-height: 100vh;
   background: url("../img/cover laptop.jpg")top center;
@@ -415,7 +415,7 @@ h6 {
 }
 
 @media (max-width: 767px) {
-  #hero {
+  #coverimage {
     background-image: url('../img/cover mobile.jpg')top center;
   }
 }
